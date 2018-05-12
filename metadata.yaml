@@ -19,6 +19,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: Without music.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21723#Songs-of-the-Cattle-Trail-and-Cow-Camp
 gutenberg_issued: '2007-06-06'
 gutenberg_type: Text
 identifiers:
